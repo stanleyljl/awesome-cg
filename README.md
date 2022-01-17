@@ -1,2 +1,2 @@
 # awesome-cg
-cg books,codes,papers,courses
+computer graphics books,codes,papers,courses
